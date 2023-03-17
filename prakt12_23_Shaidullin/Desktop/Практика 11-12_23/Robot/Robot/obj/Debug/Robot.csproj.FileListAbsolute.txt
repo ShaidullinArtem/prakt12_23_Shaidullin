@@ -1,0 +1,11 @@
+D:\рабочий стол\рс\РМП\Практика 11-12_23\Robot\Robot\bin\Debug\Robot.exe.config
+D:\рабочий стол\рс\РМП\Практика 11-12_23\Robot\Robot\bin\Debug\Robot.exe
+D:\рабочий стол\рс\РМП\Практика 11-12_23\Robot\Robot\bin\Debug\Robot.pdb
+D:\рабочий стол\рс\РМП\Практика 11-12_23\Robot\Robot\obj\Debug\Robot.csproj.AssemblyReference.cache
+D:\рабочий стол\рс\РМП\Практика 11-12_23\Robot\Robot\obj\Debug\Robot.csproj.SuggestedBindingRedirects.cache
+D:\рабочий стол\рс\РМП\Практика 11-12_23\Robot\Robot\obj\Debug\Robot.Robot.resources
+D:\рабочий стол\рс\РМП\Практика 11-12_23\Robot\Robot\obj\Debug\Robot.Properties.Resources.resources
+D:\рабочий стол\рс\РМП\Практика 11-12_23\Robot\Robot\obj\Debug\Robot.csproj.GenerateResource.cache
+D:\рабочий стол\рс\РМП\Практика 11-12_23\Robot\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+D:\рабочий стол\рс\РМП\Практика 11-12_23\Robot\Robot\obj\Debug\Robot.exe
+D:\рабочий стол\рс\РМП\Практика 11-12_23\Robot\Robot\obj\Debug\Robot.pdb
